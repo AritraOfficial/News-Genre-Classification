@@ -16,30 +16,21 @@ Headline: The news headline text.
 Genre: The genre/category of the headline (e.g., Politics, Business, Sports).
 
 ## Installation
-# Clone the repository
+### Clone the repository
 git clone "https://github.com/username/news-genre-classification.git"
 
-# Change directory
+### Change directory
 cd news-genre-classification
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
 # Project Structure
-news-genre-classification/
-├── data/
-│   └── TOI_News.csv              # Dataset file
-├── notebooks/
-│   └── exploratory_analysis.ipynb # Exploratory Data Analysis notebook
-├── src/
-│   ├── preprocess.py              # Data preprocessing script
-│   ├── train_model.py             # Model training script
-│   └── evaluate.py                # Evaluation script
-├── requirements.txt               # Dependencies
-└── README.md                      # Project documentation
+![image](https://github.com/user-attachments/assets/1b687f8c-eb18-4300-8dff-93a258ca6353)
 
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request. 
