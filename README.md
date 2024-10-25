@@ -5,15 +5,15 @@ This project focuses on classifying news headlines into various genres, such as 
 The primary objective of this project is to build a machine learning model that can accurately predict the genre of a news headline. Various classifiers are evaluated, and ensemble learning methods are implemented to improve performance.
 
 ## Key Features
-Data Collection: Web scraping from news sources like Times of India and Hindustan Times.
-Data Preprocessing: Tokenization, removing stop words, and transforming text into numerical vectors using TF-IDF and CountVectorizer.
-Modeling: Multiple classifiers, including ensemble learning techniques, are used to boost accuracy.
-Evaluation: An accuracy score is used as the evaluation metric.
-Dataset
-Dataset Name: TOI_News.csv
-Columns:
-Headline: The news headline text.
-Genre: The genre/category of the headline (e.g., Politics, Business, Sports).
+- Data Collection: Web scraping from news sources like Times of India and Hindustan Times.
+- Data Preprocessing: Tokenization, removing stop words, and transforming text into numerical vectors using TF-IDF and CountVectorizer.
+- Modeling: Multiple classifiers, including ensemble learning techniques, are used to boost accuracy.
+- Evaluation: An accuracy score is used as the evaluation metric.
+- Dataset: 
+> - Name->  TOI_News.csv
+- Columns:
+> - Headline->  The news headline text.
+> - Genre->  The genre/category of the headline (e.g., Politics, Business, Sports).
 
 ## Installation
 ### Clone the repository
