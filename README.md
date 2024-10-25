@@ -22,8 +22,7 @@ git clone "https://github.com/username/news-genre-classification.git"
 ### Change directory
 cd news-genre-classification
 
-### Install dependencies
-pip install -r requirements.txt
+### Install dependencies 
 
 # Project Structure
 ![image](https://github.com/user-attachments/assets/1b687f8c-eb18-4300-8dff-93a258ca6353)
